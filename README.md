@@ -14,6 +14,7 @@ textmate     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=menchen.menchen&left_color=#323776&right_color=#28774F)
 
 <!--
 **Menchen/Menchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
